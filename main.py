@@ -10,8 +10,7 @@ yt = YouTube(
 video = yt.streams.filter(only_audio=True).first()
   
 # check for destination to save file
-print("Enter the destination (leave blank for current directory)")
-destination = str(input(">> ")) or '.'
+destination = str(r"C:\Users\evanq\Music\Spotify Local")
   
 # download the file
 out_file = video.download(output_path=destination)

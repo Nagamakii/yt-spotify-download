@@ -16,4 +16,4 @@ Then, open the main.py file inside your given text editor, and change the "desti
 
 After that, you can run the script and download the youtube video. Be sure to use the full URL and not the shortened URL from right clicking on the video player inside Youtube, otherwise it'll say it worked but...won't.
 
-An extra tip, in order to sync these files to other devices, make sure all the devices are on the same Wi-Fi network, and open spotify on those devices while you've got the PC your originally created the files on. Give it a moment and it should all sync and you can play the files on the go.
+***An extra tip, if you want to sync these files to other devices, connect them all to the same Wi-Fi network, and open spotify on those devices while you've got the PC you originally created the files on. Give it a moment and it should all sync and you can play the files on the go.***

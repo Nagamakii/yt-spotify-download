@@ -15,5 +15,8 @@ Then, open the main.py file inside your given text editor, and change the "desti
 ![image](https://github.com/Nagamakii/yt-spotify-download/assets/65210794/b5344365-6b50-4a96-ad72-3069882457f9)
 
 After that, you can run the script and download the youtube video. Be sure to use the full URL and not the shortened URL from right clicking on the video player inside Youtube, otherwise it'll say it worked but...won't. You may need to close and re-open spotify for the track to appear.
+=======
+After that, you can run the script and download the youtube video. 
+>>>>>>> 7844fb49e8234ccc55761cb946cf4d82ce560662
 
 An extra tip, in order to sync these files to other devices, make sure all the devices are on the same Wi-Fi network, and open spotify on those devices while you've got the PC your originally created the files on. Give it a moment and it should all sync and you can play the files on the go.
